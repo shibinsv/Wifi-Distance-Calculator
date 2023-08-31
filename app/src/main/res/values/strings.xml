@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wifi-Distance-Calculator</string>
+    <string name="no_permission_granted">No permission granted, Grant permissions in Settings to continue</string>
+    <string name="wifi_ip">IP: 1%s</string>
+    <string name="distance">Distance: 1%s</string>
+    <string name="wifi">wifi</string>
+</resources>
