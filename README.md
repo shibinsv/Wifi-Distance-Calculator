@@ -4,4 +4,4 @@
 
 Application that connects with the GCP to get the coordoinates of the wifi mac-address.
 
-Note: Cureent estimation is wrong 
+Note: Current estimation is wrong and still being worked upon.
